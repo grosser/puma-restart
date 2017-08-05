@@ -1,13 +1,19 @@
+GIT
+  remote: https://github.com/grosser/puma.git
+  revision: 4602415deda1da9bd32354d2b4ff8baab0a28413
+  branch: grosser/fix
+  specs:
+    puma (3.9.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
-    puma (3.9.1)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  puma
+  puma!
 
 BUNDLED WITH
    1.15.3
